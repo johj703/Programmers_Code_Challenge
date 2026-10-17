@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-10-17T10:35:46.377Z",
+  "problems": [
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "leetCode/easy/0217-contains-duplicate/",
+      "readmePath": "leetCode/easy/0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0217-contains-duplicate.js",
+          "path": "leetCode/easy/0217-contains-duplicate/0217-contains-duplicate.js",
+          "sha": "ec2e2322320d2290529290f58e123f528b5bf278",
+          "lastSyncedAt": "2026-10-17T10:35:46.377Z"
+        }
+      ]
+    }
+  ]
+}
