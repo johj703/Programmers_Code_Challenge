@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-17T10:35:46.377Z",
+  "updatedAt": "2026-10-18T04:10:08.519Z",
   "problems": [
     {
       "frontendId": "217",
@@ -24,6 +24,26 @@
           "path": "leetCode/easy/0217-contains-duplicate/0217-contains-duplicate.js",
           "sha": "ec2e2322320d2290529290f58e123f528b5bf278",
           "lastSyncedAt": "2026-10-17T10:35:46.377Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "leetCode/easy/0242-valid-anagram/",
+      "readmePath": "leetCode/easy/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0242-valid-anagram.js",
+          "path": "leetCode/easy/0242-valid-anagram/0242-valid-anagram.js",
+          "sha": "7eae4b76698cad5f548022af405bb49c5231b2b0",
+          "lastSyncedAt": "2026-10-18T04:10:08.519Z"
         }
       ]
     }
