@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-10-18T04:10:08.519Z",
+  "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "leetCode/easy/0242-valid-anagram/",
+      "readmePath": "leetCode/easy/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0242-valid-anagram.js",
+          "path": "leetCode/easy/0242-valid-anagram/0242-valid-anagram.js",
+          "sha": "7eae4b76698cad5f548022af405bb49c5231b2b0",
+          "lastSyncedAt": "2026-10-18T04:10:08.519Z"
+        }
+      ]
+    }
+  ]
+}
