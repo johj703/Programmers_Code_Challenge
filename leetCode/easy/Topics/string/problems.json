@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T04:10:08.519Z",
+  "updatedAt": "2026-10-20T08:39:23.275Z",
   "problems": [
     {
       "frontendId": "242",
@@ -24,6 +24,26 @@
           "path": "leetCode/easy/0242-valid-anagram/0242-valid-anagram.js",
           "sha": "7eae4b76698cad5f548022af405bb49c5231b2b0",
           "lastSyncedAt": "2026-10-18T04:10:08.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetCode/easy/0383-ransom-note/",
+      "readmePath": "leetCode/easy/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0383-ransom-note.js",
+          "path": "leetCode/easy/0383-ransom-note/0383-ransom-note.js",
+          "sha": "84dcd48d8183ccf5bd61d611fdac7e58bd6ff749",
+          "lastSyncedAt": "2026-10-20T08:39:23.275Z"
         }
       ]
     }
