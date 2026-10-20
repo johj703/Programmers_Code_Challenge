@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting",
+    "tagId": "61062"
+  },
+  "updatedAt": "2026-10-20T08:39:23.275Z",
+  "problems": [
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetCode/easy/0383-ransom-note/",
+      "readmePath": "leetCode/easy/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0383-ransom-note.js",
+          "path": "leetCode/easy/0383-ransom-note/0383-ransom-note.js",
+          "sha": "84dcd48d8183ccf5bd61d611fdac7e58bd6ff749",
+          "lastSyncedAt": "2026-10-20T08:39:23.275Z"
+        }
+      ]
+    }
+  ]
+}
