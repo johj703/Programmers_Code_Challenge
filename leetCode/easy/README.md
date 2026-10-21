@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 5 | 5 | 0 | 0 |
+| 6 | 6 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 5 |
+| 5 days | 5 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,15 +20,16 @@ Contains topicwise list of solved problems.
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
+| 2026-10-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Hash Table | 2 | 40% |
-| String | 2 | 40% |
-| Counting | 1 | 20% |
-| Sorting | 1 | 20% |
+| Hash Table | 2 | 33% |
+| String | 2 | 33% |
+| Counting | 1 | 17% |
+| Sorting | 1 | 17% |
 
 ## Topics
 
