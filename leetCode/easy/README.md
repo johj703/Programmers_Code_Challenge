@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 10 | 10 | 0 | 0 |
+| 11 | 11 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 10 |
+| 10 days | 10 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,26 +25,30 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 4 | 40% |
-| Hash Table | 2 | 20% |
-| Bracket Sequences | 1 | 10% |
-| Counting | 1 | 10% |
-| Sorting | 1 | 10% |
-| Stack | 1 | 10% |
-| Two Pointers | 1 | 10% |
+| String | 4 | 36% |
+| Hash Table | 2 | 18% |
+| Array | 1 | 9% |
+| Bracket Sequences | 1 | 9% |
+| Counting | 1 | 9% |
+| Dynamic Programming | 1 | 9% |
+| Sorting | 1 | 9% |
+| Stack | 1 | 9% |
+| Two Pointers | 1 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [Array](Topics/array/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 1 |
