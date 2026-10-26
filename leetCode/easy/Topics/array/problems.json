@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-17T10:35:46.377Z",
+  "updatedAt": "2026-10-26T09:21:42.838Z",
   "problems": [
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "leetCode/easy/0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "leetCode/easy/0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0121-best-time-to-buy-and-sell-stock.js",
+          "path": "leetCode/easy/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.js",
+          "sha": "feeed5024a2fca05a438407a9fcc366ec94a97c3",
+          "lastSyncedAt": "2026-10-26T09:21:42.838Z"
+        }
+      ]
+    },
     {
       "frontendId": "217",
       "title": "Contains Duplicate",
