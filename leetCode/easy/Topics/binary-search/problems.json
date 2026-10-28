@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "tagId": "11"
+  },
+  "updatedAt": "2026-10-28T10:41:30.111Z",
+  "problems": [
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leetCode/easy/0704-binary-search/",
+      "readmePath": "leetCode/easy/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0704-binary-search.js",
+          "path": "leetCode/easy/0704-binary-search/0704-binary-search.js",
+          "sha": "71565898153425ed4c4b5e976eb60cee705e9d62",
+          "lastSyncedAt": "2026-10-28T10:41:30.111Z"
+        }
+      ]
+    }
+  ]
+}
