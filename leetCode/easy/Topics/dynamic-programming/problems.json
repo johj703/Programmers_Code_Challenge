@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-26T09:21:42.838Z",
+  "updatedAt": "2026-10-30T10:36:10.456Z",
   "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "leetCode/easy/0070-climbing-stairs/",
+      "readmePath": "leetCode/easy/0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0070-climbing-stairs.js",
+          "path": "leetCode/easy/0070-climbing-stairs/0070-climbing-stairs.js",
+          "sha": "a4d682e1ebb812df8e6f4a71e4dbff7f0b37eb98",
+          "lastSyncedAt": "2026-10-30T10:36:10.456Z"
+        }
+      ]
+    },
     {
       "frontendId": "121",
       "title": "Best Time to Buy and Sell Stock",
