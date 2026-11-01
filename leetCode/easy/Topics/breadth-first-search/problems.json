@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search",
+    "tagId": "22"
+  },
+  "updatedAt": "2026-11-01T09:28:16.709Z",
+  "problems": [
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "leetCode/easy/0104-maximum-depth-of-binary-tree/",
+      "readmePath": "leetCode/easy/0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0104-maximum-depth-of-binary-tree.js",
+          "path": "leetCode/easy/0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.js",
+          "sha": "104835770d712b314bcff01abf180fd9338ba2db",
+          "lastSyncedAt": "2026-11-01T09:28:16.709Z"
+        }
+      ]
+    }
+  ]
+}
