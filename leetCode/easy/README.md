@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 17 | 0 | 0 |
+| 18 | 18 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 16 days | 16 days | 17 |
+| 17 days | 17 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
+| 2026-11-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 4 | 24% |
-| Array | 2 | 12% |
-| Dynamic Programming | 2 | 12% |
-| Hash Table | 2 | 12% |
+| String | 4 | 22% |
+| Array | 2 | 11% |
+| Dynamic Programming | 2 | 11% |
+| Hash Table | 2 | 11% |
 | Binary Search | 1 | 6% |
 | Binary Tree | 1 | 6% |
 | Bracket Sequences | 1 | 6% |
