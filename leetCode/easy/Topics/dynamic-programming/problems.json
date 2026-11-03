@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-30T10:36:10.456Z",
+  "updatedAt": "2026-11-03T09:59:38.905Z",
   "problems": [
     {
       "frontendId": "70",
@@ -44,6 +44,26 @@
           "path": "leetCode/easy/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.js",
           "sha": "feeed5024a2fca05a438407a9fcc366ec94a97c3",
           "lastSyncedAt": "2026-10-26T09:21:42.838Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "leetCode/easy/0746-min-cost-climbing-stairs/",
+      "readmePath": "leetCode/easy/0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0746-min-cost-climbing-stairs.js",
+          "path": "leetCode/easy/0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.js",
+          "sha": "65a9525b2b1e6e8a38bce474cbd8bca8ae23b016",
+          "lastSyncedAt": "2026-11-03T09:59:38.905Z"
         }
       ]
     }
