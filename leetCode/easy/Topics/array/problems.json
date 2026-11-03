@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T10:41:30.111Z",
+  "updatedAt": "2026-11-03T09:59:38.905Z",
   "problems": [
     {
       "frontendId": "121",
@@ -64,6 +64,26 @@
           "path": "leetCode/easy/0704-binary-search/0704-binary-search.js",
           "sha": "71565898153425ed4c4b5e976eb60cee705e9d62",
           "lastSyncedAt": "2026-10-28T10:41:30.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "leetCode/easy/0746-min-cost-climbing-stairs/",
+      "readmePath": "leetCode/easy/0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0746-min-cost-climbing-stairs.js",
+          "path": "leetCode/easy/0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.js",
+          "sha": "65a9525b2b1e6e8a38bce474cbd8bca8ae23b016",
+          "lastSyncedAt": "2026-11-03T09:59:38.905Z"
         }
       ]
     }
