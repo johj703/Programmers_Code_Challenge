@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T10:13:49.442Z",
+  "updatedAt": "2026-11-05T10:30:56.396Z",
   "problems": [
     {
       "frontendId": "125",
@@ -24,6 +24,26 @@
           "path": "leetCode/easy/0125-valid-palindrome/0125-valid-palindrome.js",
           "sha": "d8557172b12790651102b087b540fc666c5f62d7",
           "lastSyncedAt": "2026-10-22T10:13:49.442Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "leetCode/easy/0283-move-zeroes/",
+      "readmePath": "leetCode/easy/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0283-move-zeroes.js",
+          "path": "leetCode/easy/0283-move-zeroes/0283-move-zeroes.js",
+          "sha": "dd413525b53e5186878b5de44a747ee6016ce3c6",
+          "lastSyncedAt": "2026-11-05T10:30:56.396Z"
         }
       ]
     }
