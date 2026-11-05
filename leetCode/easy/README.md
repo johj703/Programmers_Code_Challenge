@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 20 | 0 | 0 |
+| 21 | 21 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 19 days | 19 days | 20 |
+| 20 days | 20 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
+| 2026-11-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 4 | 20% |
-| Array | 3 | 15% |
-| Dynamic Programming | 3 | 15% |
+| Array | 4 | 19% |
+| String | 4 | 19% |
+| Dynamic Programming | 3 | 14% |
 | Hash Table | 2 | 10% |
+| Two Pointers | 2 | 10% |
 | Binary Search | 1 | 5% |
 | Binary Tree | 1 | 5% |
 | Bracket Sequences | 1 | 5% |
 | Breadth-First Search | 1 | 5% |
 | Counting | 1 | 5% |
-| Depth-First Search | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 4 |
+| [Array](Topics/array/) | 5 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -64,5 +64,5 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 4 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
