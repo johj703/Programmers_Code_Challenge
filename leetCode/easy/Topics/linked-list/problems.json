@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-07T03:27:47.263Z",
+  "updatedAt": "2026-11-09T10:43:14.451Z",
   "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "leetCode/easy/0141-linked-list-cycle/",
+      "readmePath": "leetCode/easy/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0141-linked-list-cycle.js",
+          "path": "leetCode/easy/0141-linked-list-cycle/0141-linked-list-cycle.js",
+          "sha": "502b331105f35cb6e7075d3da5b5284f40967390",
+          "lastSyncedAt": "2026-11-09T10:43:14.451Z"
+        }
+      ]
+    },
     {
       "frontendId": "206",
       "title": "Reverse Linked List",
