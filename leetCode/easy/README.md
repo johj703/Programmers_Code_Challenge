@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 26 | 0 | 0 |
+| 27 | 27 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 25 days | 25 days | 26 |
+| 26 days | 26 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-28 | 1 |
 | 2026-10-29 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
+| 2026-11-11 | 1 |
 
 ## Top Tags
 
@@ -36,10 +36,10 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 4 | 15% |
 | String | 4 | 15% |
-| Dynamic Programming | 3 | 12% |
-| Hash Table | 3 | 12% |
-| Two Pointers | 3 | 12% |
-| Linked List | 2 | 8% |
+| Two Pointers | 4 | 15% |
+| Dynamic Programming | 3 | 11% |
+| Hash Table | 3 | 11% |
+| Linked List | 3 | 11% |
 | Binary Search | 1 | 4% |
 | Binary Tree | 1 | 4% |
 | Bracket Sequences | 1 | 4% |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
-| [Linked List](Topics/linked-list/) | 2 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Math](Topics/math/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
@@ -67,5 +67,5 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 4 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
