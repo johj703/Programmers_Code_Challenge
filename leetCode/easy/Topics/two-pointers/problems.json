@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T11:57:52.433Z",
+  "updatedAt": "2026-11-13T12:45:45.945Z",
   "problems": [
     {
       "frontendId": "125",
@@ -44,6 +44,26 @@
           "path": "leetCode/easy/0141-linked-list-cycle/0141-linked-list-cycle.js",
           "sha": "502b331105f35cb6e7075d3da5b5284f40967390",
           "lastSyncedAt": "2026-11-09T10:43:14.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "leetCode/easy/0234-palindrome-linked-list/",
+      "readmePath": "leetCode/easy/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0234-palindrome-linked-list.js",
+          "path": "leetCode/easy/0234-palindrome-linked-list/0234-palindrome-linked-list.js",
+          "sha": "d6c8646c07d22479556ec80e57d2dcd2a0815b6d",
+          "lastSyncedAt": "2026-11-13T12:45:45.945Z"
         }
       ]
     },
