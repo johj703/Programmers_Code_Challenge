@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 28 | 0 | 0 |
+| 29 | 29 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 27 days | 27 days | 28 |
+| 28 days | 28 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
+| 2026-11-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
+| Two Pointers | 5 | 17% |
 | Array | 4 | 14% |
+| Linked List | 4 | 14% |
 | String | 4 | 14% |
-| Two Pointers | 4 | 14% |
-| Dynamic Programming | 3 | 11% |
-| Hash Table | 3 | 11% |
-| Linked List | 3 | 11% |
-| Binary Search | 1 | 4% |
-| Binary Tree | 1 | 4% |
-| Bracket Sequences | 1 | 4% |
-| Breadth-First Search | 1 | 4% |
+| Dynamic Programming | 3 | 10% |
+| Hash Table | 3 | 10% |
+| Recursion | 2 | 7% |
+| Stack | 2 | 7% |
+| Binary Search | 1 | 3% |
+| Binary Tree | 1 | 3% |
 
 ## Topics
 
@@ -59,13 +59,13 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 1 |
+| [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 4 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
