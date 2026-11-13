@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-24T12:16:34.354Z",
+  "updatedAt": "2026-11-13T12:45:45.945Z",
   "problems": [
     {
       "frontendId": "20",
@@ -24,6 +24,26 @@
           "path": "leetCode/easy/0020-valid-parentheses/0020-valid-parentheses.js",
           "sha": "0f2cd550136cb032c329aab6947d3f05de3f9964",
           "lastSyncedAt": "2026-10-24T12:16:34.354Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "leetCode/easy/0234-palindrome-linked-list/",
+      "readmePath": "leetCode/easy/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0234-palindrome-linked-list.js",
+          "path": "leetCode/easy/0234-palindrome-linked-list/0234-palindrome-linked-list.js",
+          "sha": "d6c8646c07d22479556ec80e57d2dcd2a0815b6d",
+          "lastSyncedAt": "2026-11-13T12:45:45.945Z"
         }
       ]
     }
