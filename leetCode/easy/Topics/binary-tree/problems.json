@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-01T09:28:16.709Z",
+  "updatedAt": "2026-11-15T09:48:16.279Z",
   "problems": [
     {
       "frontendId": "104",
@@ -24,6 +24,26 @@
           "path": "leetCode/easy/0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.js",
           "sha": "104835770d712b314bcff01abf180fd9338ba2db",
           "lastSyncedAt": "2026-11-01T09:28:16.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "leetCode/easy/0226-invert-binary-tree/",
+      "readmePath": "leetCode/easy/0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0226-invert-binary-tree.js",
+          "path": "leetCode/easy/0226-invert-binary-tree/0226-invert-binary-tree.js",
+          "sha": "4bd9d9fc1c5680248563371d3cdcea578c526076",
+          "lastSyncedAt": "2026-11-15T09:48:16.279Z"
         }
       ]
     }
