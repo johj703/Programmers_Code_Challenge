@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 32 | 0 | 0 |
+| 33 | 33 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 31 days | 31 days | 32 |
+| 32 days | 32 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-05 | 1 |
 | 2026-11-06 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Two Pointers | 5 | 16% |
-| Array | 4 | 13% |
-| Linked List | 4 | 13% |
-| String | 4 | 13% |
+| Linked List | 5 | 15% |
+| Two Pointers | 5 | 15% |
+| Array | 4 | 12% |
+| String | 4 | 12% |
 | Dynamic Programming | 3 | 9% |
 | Hash Table | 3 | 9% |
+| Recursion | 3 | 9% |
 | Binary Tree | 2 | 6% |
 | Breadth-First Search | 2 | 6% |
 | Depth-First Search | 2 | 6% |
-| Recursion | 2 | 6% |
 
 ## Topics
 
@@ -59,10 +59,10 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 4 |
