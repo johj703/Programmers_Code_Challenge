@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-13T12:45:45.945Z",
+  "updatedAt": "2026-11-17T11:42:30.397Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "leetCode/easy/0021-merge-two-sorted-lists/",
+      "readmePath": "leetCode/easy/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0021-merge-two-sorted-lists.js",
+          "path": "leetCode/easy/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.js",
+          "sha": "d2453c9813df817108365ed47f0173861fbc4ad3",
+          "lastSyncedAt": "2026-11-17T11:42:30.397Z"
+        }
+      ]
+    },
     {
       "frontendId": "141",
       "title": "Linked List Cycle",
