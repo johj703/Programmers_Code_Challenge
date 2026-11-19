@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 34 | 0 | 0 |
+| 35 | 35 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 33 days | 33 days | 34 |
+| 34 days | 34 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-05 | 1 |
 | 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
 | 2026-11-08 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 1 |
 | 2026-11-17 | 1 |
 | 2026-11-18 | 1 |
+| 2026-11-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Linked List | 5 | 15% |
-| Two Pointers | 5 | 15% |
-| Array | 4 | 12% |
-| String | 4 | 12% |
+| Linked List | 5 | 14% |
+| Two Pointers | 5 | 14% |
+| Array | 4 | 11% |
+| String | 4 | 11% |
+| Binary Tree | 3 | 9% |
+| Breadth-First Search | 3 | 9% |
+| Depth-First Search | 3 | 9% |
 | Dynamic Programming | 3 | 9% |
 | Hash Table | 3 | 9% |
 | Recursion | 3 | 9% |
-| Binary Tree | 2 | 6% |
-| Breadth-First Search | 2 | 6% |
-| Depth-First Search | 2 | 6% |
 
 ## Topics
 
@@ -51,11 +51,11 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 5 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 2 |
+| [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
@@ -66,6 +66,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 4 |
-| [Tree](Topics/tree/) | 2 |
+| [Tree](Topics/tree/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
