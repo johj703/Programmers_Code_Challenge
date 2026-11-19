@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T09:48:16.279Z",
+  "updatedAt": "2026-11-19T11:33:12.770Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "leetCode/easy/0100-same-tree/",
+      "readmePath": "leetCode/easy/0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0100-same-tree.js",
+          "path": "leetCode/easy/0100-same-tree/0100-same-tree.js",
+          "sha": "d14cb105a5e76826a055cab083ce005d2af39621",
+          "lastSyncedAt": "2026-11-19T11:33:12.770Z"
+        }
+      ]
+    },
     {
       "frontendId": "104",
       "title": "Maximum Depth of Binary Tree",
