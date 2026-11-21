@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-19T11:33:12.770Z",
+  "updatedAt": "2026-11-21T11:50:40.789Z",
   "problems": [
     {
       "frontendId": "100",
@@ -24,6 +24,26 @@
           "path": "leetCode/easy/0100-same-tree/0100-same-tree.js",
           "sha": "d14cb105a5e76826a055cab083ce005d2af39621",
           "lastSyncedAt": "2026-11-19T11:33:12.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "leetCode/easy/0101-symmetric-tree/",
+      "readmePath": "leetCode/easy/0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0101-symmetric-tree.js",
+          "path": "leetCode/easy/0101-symmetric-tree/0101-symmetric-tree.js",
+          "sha": "3eec4424930b2c6aa98c6d3aa538bbc8b1f7ca5a",
+          "lastSyncedAt": "2026-11-21T11:50:40.789Z"
         }
       ]
     },
