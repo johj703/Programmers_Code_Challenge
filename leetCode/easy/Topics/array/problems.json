@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T10:30:56.396Z",
+  "updatedAt": "2026-11-23T10:15:07.806Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "leetCode/easy/0035-search-insert-position/",
+      "readmePath": "leetCode/easy/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0035-search-insert-position.js",
+          "path": "leetCode/easy/0035-search-insert-position/0035-search-insert-position.js",
+          "sha": "4fb4852f6a25e63fefb42cf144839496d354d3dd",
+          "lastSyncedAt": "2026-11-23T10:15:07.806Z"
+        }
+      ]
+    },
     {
       "frontendId": "121",
       "title": "Best Time to Buy and Sell Stock",
