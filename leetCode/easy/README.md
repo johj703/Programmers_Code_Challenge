@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 38 | 0 | 0 |
+| 39 | 39 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 37 days | 37 days | 38 |
+| 38 days | 38 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-20 | 1 |
 | 2026-11-21 | 1 |
 | 2026-11-22 | 1 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
+| Array | 5 | 13% |
 | Linked List | 5 | 13% |
 | Two Pointers | 5 | 13% |
-| Array | 4 | 11% |
-| Binary Tree | 4 | 11% |
-| Breadth-First Search | 4 | 11% |
-| Depth-First Search | 4 | 11% |
-| String | 4 | 11% |
-| Tree | 4 | 11% |
+| Binary Tree | 4 | 10% |
+| Breadth-First Search | 4 | 10% |
+| Depth-First Search | 4 | 10% |
+| String | 4 | 10% |
+| Tree | 4 | 10% |
 | Dynamic Programming | 3 | 8% |
 | Hash Table | 3 | 8% |
 
@@ -49,8 +49,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Array](Topics/array/) | 6 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 4 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 4 |
