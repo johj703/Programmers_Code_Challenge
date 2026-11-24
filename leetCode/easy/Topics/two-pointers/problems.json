@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T12:45:45.945Z",
+  "updatedAt": "2026-11-24T09:24:27.967Z",
   "problems": [
     {
       "frontendId": "125",
@@ -84,6 +84,26 @@
           "path": "leetCode/easy/0283-move-zeroes/0283-move-zeroes.js",
           "sha": "dd413525b53e5186878b5de44a747ee6016ce3c6",
           "lastSyncedAt": "2026-11-05T10:30:56.396Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "leetCode/easy/0344-reverse-string/",
+      "readmePath": "leetCode/easy/0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0344-reverse-string.js",
+          "path": "leetCode/easy/0344-reverse-string/0344-reverse-string.js",
+          "sha": "5584e7154cf85dbaeab695e7430a5aa00eb6a810",
+          "lastSyncedAt": "2026-11-24T09:24:27.967Z"
         }
       ]
     },
