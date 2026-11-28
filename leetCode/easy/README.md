@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 40 | 0 | 0 |
+| 41 | 41 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 39 days | 39 days | 40 |
+| 1 days | 39 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
@@ -29,29 +28,31 @@ Contains topicwise list of solved problems.
 | 2026-11-22 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-24 | 1 |
+| 2026-11-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
+| Array | 6 | 15% |
 | Two Pointers | 6 | 15% |
-| Array | 5 | 13% |
-| Linked List | 5 | 13% |
-| String | 5 | 13% |
+| Linked List | 5 | 12% |
+| String | 5 | 12% |
 | Binary Tree | 4 | 10% |
 | Breadth-First Search | 4 | 10% |
 | Depth-First Search | 4 | 10% |
 | Tree | 4 | 10% |
-| Dynamic Programming | 3 | 8% |
-| Hash Table | 3 | 8% |
+| Dynamic Programming | 3 | 7% |
+| Hash Table | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 4 |
 | [Counting](Topics/counting/) | 1 |
