@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:15:07.806Z",
+  "updatedAt": "2026-11-28T10:06:41.683Z",
   "problems": [
     {
       "frontendId": "35",
@@ -44,6 +44,26 @@
           "path": "leetCode/easy/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.js",
           "sha": "feeed5024a2fca05a438407a9fcc366ec94a97c3",
           "lastSyncedAt": "2026-10-26T09:21:42.838Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "leetCode/easy/0136-single-number/",
+      "readmePath": "leetCode/easy/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "0136-single-number.js",
+          "path": "leetCode/easy/0136-single-number/0136-single-number.js",
+          "sha": "bb3caed3deed155c6d69c78f4f8cfb17400679eb",
+          "lastSyncedAt": "2026-11-28T10:06:41.683Z"
         }
       ]
     },
